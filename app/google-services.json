@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "309868794316",
+    "firebase_url": "https://borrame-b672e.firebaseio.com",
+    "project_id": "borrame-b672e",
+    "storage_bucket": "borrame-b672e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309868794316:android:92a8ee59fe84ce6b",
+        "android_client_info": {
+          "package_name": "com.example.xendor2.borrame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309868794316-hcke24cb3v5opv0aabdb64hfe8hj6g4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xendor2.borrame",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "309868794316-fsppa1bt79gik323u6b7j7nuo135gcvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdmSaSoEf2FofyfbgdevixlKKIWDyewpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309868794316-fsppa1bt79gik323u6b7j7nuo135gcvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
